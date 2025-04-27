@@ -43,7 +43,3 @@ $ pip install -r requirements.txt
       ```
       $ python PNGtoJPG.py
       ```
-
-## *Author Name*
-
-[Ramon Ferreira](https://github.com/ramonfsk)
